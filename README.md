@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/xf0ht6z/shutterstock-753972046-350x233.jpg">
-
 ## Info
 
 #### I'm Ariyond, Or in the real world, AmirHossein Shahmirzaei.
@@ -20,7 +18,7 @@
 ## OS & Text Editors and IDE & Web Browsers
 
 ![Android](https://img.shields.io/badge/Android-00a03e?style=for-the-badge&logo=android&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian%20Linux-a30b2f?style=for-the-badge&logo=Debian&logoColor=white)
+![Archlinux](https://img.shields.io/badge/-Arch%20Linux-0F94D2?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows%2011-2CA5E0?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-00a03e.svg?style=for-the-badge&logo=android-studio&logoColor=white)
