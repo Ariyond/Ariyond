@@ -34,3 +34,4 @@
 ## Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ariyond&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariyond&layout=compact&theme=github_dark)
